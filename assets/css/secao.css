@@ -1,0 +1,14 @@
+.secao{
+    display: grid;
+    gap: 16px;
+    
+}
+
+.titulo-secao{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.cartao__botao--compra::before{
+    content: "\e901";
+}
